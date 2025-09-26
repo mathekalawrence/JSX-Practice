@@ -6,7 +6,7 @@ import ThemedLogo from '../components/ThemedLogo'
 
 const About = () => {
     const colorScheme = useColorScheme()
-    const theme = Colors[colorScheme] ?? Colors.light
+    const theme = Colors[colorScheme] ?? Colors.light 
 
   return (
     <View style={[styles.container, {backgroundColor: theme.background}]}>
