@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     },
     link: {
       marginVertical: 10,
-      marginBottomWidth: 1,
+      marginBottomWidth: 1, 
     }
   
 })
