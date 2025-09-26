@@ -15,7 +15,6 @@ const About = () => {
 
       <Link href="" style={styles.link}>Back Home</Link>
     </View>
-
     
   )
 }
