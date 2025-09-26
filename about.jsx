@@ -32,7 +32,6 @@ const styles = StyleSheet.create({
     title: {
         fontWeight: 'bold',
         fontSize: 25,
-
     },
     head: {
         fontWeight: 'bold',
