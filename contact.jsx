@@ -10,7 +10,7 @@ const Contact = () => {
       <Link href="" style={styles.link}>Back Home</Link>
     </View>
   )
-} 
+}
 
 export default Contact
 
@@ -20,7 +20,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'top',
         marginTop: 0,
-
     },
     title: {
         fontWeight: 'bold',
